@@ -45,6 +45,14 @@ Olá! Sou **Kayk**, estudante de programação e entusiasta de tecnologia. Estou
 
 > As estatísticas dependem dos dados públicos do GitHub e da disponibilidade do serviço externo.
 
+## Contribuições
+
+<p align="center">
+  <img src="./assets/constelacao.svg" width="100%" alt="Calendário de contribuições de Kayk em uma constelação animada roxa sobre fundo preto" />
+</p>
+
+[Calendário no GitHub](https://github.com/kayk61#contribution-graph) · [Animação por contribution-fx](https://github.com/Sur1ive/contribution-fx)
+
 ## Atividades
 
 [Listas de exercícios e estudos](https://github.com/kayk61/atividades)  
