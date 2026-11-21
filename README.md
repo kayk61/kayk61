@@ -16,15 +16,17 @@
 
 ## 👨‍💻 Sobre mim
 
-<img align="right" width="150" src="https://media1.tenor.com/m/vqImBsIQr7AAAAAd/cid-kagenou-eminence-in-shadow.gif" alt="Cid Kagenou usando I Am Atomic" />
-
 Olá! Sou **Kayk**, estudante de programação e entusiasta de tecnologia. Estou construindo meus conhecimentos em desenvolvimento de software, lógica de programação e bancos de dados.
 
-- 🎓 Atualmente, estou **estudando programação**.
-- 💻 Minhas tecnologias de estudo são **C#, Java e MySQL**.
-- 🧠 Tenho interesse em **desenvolvimento back-end e bancos de dados**.
-- 🛠️ Uso o GitHub para registrar minha evolução e organizar meus projetos.
-- 🚀 Meu objetivo é **aprender, praticar e melhorar a cada projeto**.
+<ul>
+  <li>🎓 Atualmente, estou <strong>estudando programação</strong>.</li>
+  <li>💻 Minhas tecnologias de estudo são <strong>C#, Java e MySQL</strong>.</li>
+  <li>🧠 Tenho interesse em <strong>desenvolvimento back-end e bancos de dados</strong>.</li>
+  <li><img align="right" width="150" src="https://media1.tenor.com/m/vqImBsIQr7AAAAAd/cid-kagenou-eminence-in-shadow.gif" alt="Cid Kagenou usando I Am Atomic" /> 🛠️ Uso o GitHub para registrar minha evolução e organizar meus projetos.</li>
+  <li>🚀 Meu objetivo é <strong>aprender, praticar e melhorar a cada projeto</strong>.</li>
+</ul>
+
+<br clear="right" />
 
 ## 🛠️ Tecnologias que estou aprendendo
 
@@ -50,7 +52,7 @@ Olá! Sou **Kayk**, estudante de programação e entusiasta de tecnologia. Estou
 ## Contribuições
 
 <p align="center">
-  <img src="./assets/railgun.svg" width="100%" alt="Calendário de contribuições de Kayk com efeito Railgun roxo sobre fundo preto" />
+  <img src="./assets/constelacao.svg" width="100%" alt="Calendário de contribuições de Kayk em uma constelação animada roxa sobre fundo preto" />
 </p>
 
 [Animação por contribution-fx](https://github.com/Sur1ive/contribution-fx)
