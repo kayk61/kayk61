@@ -22,7 +22,7 @@ Olá! Sou **Kayk**, estudante de programação e entusiasta de tecnologia. Estou
   <li>🎓 Atualmente, estou <strong>estudando programação</strong>.</li>
   <li>💻 Minhas tecnologias de estudo são <strong>C#, Java e MySQL</strong>.</li>
   <li>🧠 Tenho interesse em <strong>desenvolvimento back-end e bancos de dados</strong>.</li>
-  <li><img align="right" width="150" src="https://media1.tenor.com/m/vqImBsIQr7AAAAAd/cid-kagenou-eminence-in-shadow.gif" alt="Cid Kagenou usando I Am Atomic" /> 🛠️ Uso o GitHub para registrar minha evolução e organizar meus projetos.</li>
+  <li><img align="right" width="180" src="https://media1.tenor.com/m/vqImBsIQr7AAAAAd/cid-kagenou-eminence-in-shadow.gif" alt="Cid Kagenou usando I Am Atomic" /> 🛠️ Uso o GitHub para registrar minha evolução e organizar meus projetos.</li>
   <li>🚀 Meu objetivo é <strong>aprender, praticar e melhorar a cada projeto</strong>.</li>
 </ul>
 
