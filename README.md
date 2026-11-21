@@ -16,6 +16,8 @@
 
 ## 👨‍💻 Sobre mim
 
+<img align="right" width="150" src="https://media1.tenor.com/m/pNUwVQsuDaQAAAAd/i-am-atomic-cid.gif" alt="Cid Kagenou usando I Am Atomic" />
+
 Olá! Sou **Kayk**, estudante de programação e entusiasta de tecnologia. Estou construindo meus conhecimentos em desenvolvimento de software, lógica de programação e bancos de dados.
 
 - 🎓 Atualmente, estou **estudando programação**.
