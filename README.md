@@ -48,7 +48,7 @@ Olá! Sou **Kayk**, estudante de programação e entusiasta de tecnologia. Estou
 ## Contribuições
 
 <p align="center">
-  <img src="./assets/constelacao.svg" width="100%" alt="Calendário de contribuições de Kayk em uma constelação animada roxa sobre fundo preto" />
+  <img src="./assets/railgun.svg" width="100%" alt="Calendário de contribuições de Kayk com efeito Railgun roxo sobre fundo preto" />
 </p>
 
 [Animação por contribution-fx](https://github.com/Sur1ive/contribution-fx)
